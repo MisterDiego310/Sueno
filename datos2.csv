@@ -1,4 +1,3 @@
-Edad,Genero,Peso,Consciente,Tiempo_dormir,Afeccion,Hora_dormir,Hora_despertar,Regular,Siestas,Mu1ca,Genero_musica,Come,Bebe_agua,Rutina,Descansa_bien
 21,Mujer,59,0,5,0,11:00:00 p. m.,6:00:00 a. m.,1,1,1,Electro,1,1,0,0
 21,Hombre,59,0,0,0,11:00:00 p. m.,8:00:00 a. m.,0,1,1,Rock cristiano,1,1,0,1
 21,Mujer,56,0,0,Preocupaciones,11:00:00 p. m.,6:00:00 a. m.,1,1,1,Electro,1,1,1,1
