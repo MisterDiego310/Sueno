@@ -1,0 +1,102 @@
+Edad,Genero,Peso,Consciente,Tiempo_dormir,Afeccion,Regular,Siestas,Mu1ca,Genero_Musica,Come,Bebe_agua,Rutina,Descansa_bien
+21,Mujer,59,0,5,0,1,1,1,Electro,1,1,0,0
+21,Hombre,59,0,0,0,0,1,1,Rock cristiano,1,1,0,1
+21,Mujer,56,0,0,Preocupaciones,1,1,1,Electro,1,1,1,1
+21,Hombre,56,0,0,0,0,0,0,0,1,1,0,1
+20,Mujer,62,0,9,0,0,0,0,0,1,1,1,0
+21,Mujer,58,1,60,0,0,1,1,Relajante,0,0,0,1
+21,Hombre,60,1,10,0,1,0,1,Rock alternativo ,1,1,0,1
+21,Hombre,60,1,10,Preocupaciones,1,0,0,0,0,1,1,0
+37,Mujer,60,1,10,0,1,0,1,Baladas y Rock,1,1,1,0
+48,Hombre,67,1,30,0,1,0,1,Baladas y Rock,0,1,1,1
+24,Hombre,85,1,2,0,0,1,1,Rock,0,1,0,0
+37,Mujer,49,0,7,Pesadillas,0,1,0,0,0,1,0,0
+22,Hombre,90,0,40,0,1,0,1,0,0,0,0,0
+21,Hombre,74,0,50,0,0,0,1,Vaporwave,0,1,0,0
+22,Hombre,76,1,1,0,0,0,1,0,1,1,1,1
+21,Hombre,75,1,10,0,0,1,0,Cristiana ,1,1,1,1
+21,Hombre,85,1,30,0,1,0,0,0,0,1,0,1
+25,Mujer,59,0,0,Depresion,0,0,0,0,0,1,0,0
+34,Hombre,83,1,1,0,0,0,1,Clasica,0,1,0,0
+19,Mujer,63.5,0,5,0,1,0,1,Chill,0,0,0,0
+22,Hombre,70,0,30,0,0,1,1,Electro,0,1,0,0
+21,Hombre,69,1,10,0,0,1,0,0,1,0,0,0
+21,Mujer,56,0,0,0,1,1,1,Chill,1,0,1,1
+24,Hombre,71,0,0,Preocupaciones,1,1,0,0,1,0,0,1
+21,Hombre,70,1,40,0,0,1,1,Relajante,1,1,1,0
+21,Mujer,70,1,2,0,0,1,0,0,0,0,0,0
+23,Hombre,72,1,50,0,0,0,0,0,1,0,0,1
+23,Mujer,57,1,0,0,0,0,0,0,0,1,0,0
+25,Mujer,56,1,10,0,1,0,1,Rock,0,0,0,1
+22,Mujer,58,0,0,0,1,0,1,Baladas y Rock,1,0,1,0
+26,Mujer,56,1,30,0,1,1,0,0,1,0,0,1
+23,Hombre,68,0,10,0,0,1,1,Electro,0,0,1,1
+19,Hombre,68,1,0,Pesadillas,0,1,0,0,1,0,1,0
+21,Hombre,70,1,5,Depresion,1,1,1,Vaporwave,0,0,1,0
+30,Mujer,56,1,0,Preocupaciones,1,1,0,0,1,1,0,1
+23,Mujer,58,1,0,0,0,0,0,0,0,0,0,1
+23,Mujer,59,1,60,0,1,1,0,0,1,0,0,1
+21,Hombre,72,1,40,0,0,0,0,0,0,0,0,0
+21,Hombre,70,1,10,0,0,0,0,0,0,1,0,1
+48,Hombre,74,0,0,0,0,0,0,0,0,0,1,1
+22,Mujer,60,0,0,0,0,1,1,Reggaeton,1,0,1,0
+20,Mujer,60,0,0,0,0,1,1,Baladas y Rock,1,0,0,1
+22,Hombre,75,0,0,0,0,0,0,0,1,1,1,0
+20,Mujer,62,0,30,0,0,0,0,0,1,1,0,1
+20,Hombre,80,0,0,0,1,1,1,Rock alternativo ,0,1,1,0
+25,Hombre,70,0,0,0,1,1,0,0,1,1,0,1
+25,Mujer,63,1,50,0,1,1,0,0,0,0,1,0
+23,Hombre,75,0,5,0,1,0,0,0,0,0,0,0
+21,Hombre,71,0,5,0,1,1,0,0,1,0,0,1
+30,Hombre,70,1,40,0,1,0,0,0,0,0,1,0
+26,Mujer,62,0,50,Preocupaciones,1,1,1,Reggaeton,1,1,0,1
+22,Hombre,70,1,30,0,0,1,0,0,0,0,0,1
+35,Mujer,60,1,0,0,1,1,0,0,0,1,1,1
+22,Hombre,70,0,30,0,1,1,0,0,1,0,0,0
+30,Mujer,59,0,10,0,1,0,0,0,1,1,0,1
+26,Mujer,59,1,5,Depresion,1,0,1,Rock alternativo ,1,0,1,1
+24,Hombre,70,1,1,0,0,0,1,Baladas y Rock,0,0,1,1
+26,Hombre,70,0,10,0,1,0,0,0,1,1,1,1
+35,Hombre,75,1,30,0,0,1,0,0,1,0,0,0
+26,Mujer,58,1,0,0,0,0,0,Rock,0,1,1,1
+23,Mujer,58,0,0,0,1,1,1,Baladas y Rock,0,1,1,0
+21,Mujer,57,1,0,Preocupaciones,1,0,0,0,0,1,0,1
+22,Hombre,65,1,10,0,0,1,0,0,0,0,1,0
+21,Mujer,56,0,10,0,0,0,0,0,1,0,0,0
+22,Hombre,70,0,10,0,0,0,0,0,1,0,0,0
+21,Hombre,72,1,0,0,1,0,0,0,0,1,1,1
+21,Mujer,58,0,0,0,0,0,1,Rock alternativo ,0,0,1,1
+22,Mujer,57,0,30,0,0,1,1,Clasica,0,0,0,1
+25,Hombre,70,1,0,0,0,0,1,Reggaeton,0,1,1,1
+20,Mujer,59,0,40,0,1,1,0,0,1,0,1,0
+22,Mujer,60,1,0,0,1,1,1,Rock,0,1,1,0
+22,Hombre,78,1,0,0,0,1,1,Electro,1,1,1,1
+21,Mujer,61,1,0,Preocupaciones,0,1,0,0,1,0,0,1
+27,Mujer,56,0,30,Pesadillas,0,1,1,Rock alternativo ,0,0,0,1
+22,Mujer,55,1,0,0,0,1,1,Rock alternativo ,1,0,0,0
+25,Hombre,70,0,0,0,0,0,1,Rock alternativo ,0,1,0,1
+22,Hombre,75,1,0,0,0,1,0,0,1,1,1,1
+24,Mujer,56,0,0,0,0,1,0,0,1,0,0,0
+21,Hombre,70,0,0,0,1,0,0,0,1,1,1,1
+23,Mujer,55,0,10,0,0,0,0,0,0,1,1,0
+22,Mujer,55,1,0,Pesadillas,1,1,0,0,1,1,1,1
+37,Hombre,72,1,0,0,0,0,0,0,0,1,0,0
+21,Hombre,70,1,0,0,0,1,1,Cristiana ,0,0,1,0
+21,Mujer,59,0,30,0,0,1,1,Baladas y Rock,0,0,1,1
+20,Mujer,60,1,0,0,1,1,0,0,1,0,1,0
+26,Hombre,71,1,10,Preocupaciones,0,1,0,0,1,0,1,0
+21,Hombre,75,0,5,0,1,1,0,0,0,1,1,0
+26,Mujer,60,0,0,Preocupaciones,1,1,0,0,1,1,1,1
+21,Mujer,61,0,30,0,1,1,0,0,1,1,0,0
+22,Hombre,74,1,0,0,1,1,1,Clasica,1,0,0,1
+21,Hombre,70,1,0,0,0,1,0,0,1,1,1,1
+48,Hombre,76,0,10,Depresion,1,0,0,0,0,1,0,0
+23,Mujer,59,0,0,0,1,1,0,0,0,1,1,1
+20,Mujer,60,0,40,0,1,1,0,0,1,0,0,1
+21,Mujer,60,1,0,0,0,0,0,0,1,1,1,0
+21,Hombre,70,1,30,0,0,1,1,Cristiana ,0,1,1,0
+22,Hombre,75,1,0,0,0,0,1,Baladas y Rock,0,0,1,1
+23,Hombre,70,0,0,0,0,0,0,0,1,0,1,0
+35,Mujer,62,1,0,Preocupaciones,0,1,0,0,1,1,0,0
+23,Hombre,70,0,0,0,1,0,0,0,1,1,1,1
+22,Hombre,78,1,30,0,0,1,1,Baladas y Rock,0,0,1,1
